@@ -16,7 +16,7 @@
         default_layer {
             display-name = "Default Layer";
             bindings = <
-                &kp KP_ESCAPE   &mo 1           &kp KP_LALT     &kp KP_PLUS
+                &kp KP_ESCAPE   &mo 1           &kt KP_LALT     &kp KP_PLUS
                 &kp KP_NUMBER_7 &kp KP_NUMBER_8 &kp KP_NUMBER_9 &kp KP_MINUS
                 &kp KP_NUMBER_4 &kp KP_NUMBER_5 &kp KP_NUMBER_6 &kp KP_ASTERISK
                 &kp KP_NUMBER_1 &kp KP_NUMBER_2 &kp KP_NUMBER_3 &kp 1 KP_SLASH
