@@ -1,0 +1,6 @@
+if SHIELD_TIBERS
+
+config ZMK_KEYBOARD_NAME
+    default "Ti-bers"
+
+endif
